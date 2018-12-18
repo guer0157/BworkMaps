@@ -1,10 +1,7 @@
 let app={
     init: function(){
-        let opt={
-            mode:'cors',
-            method:'GET'
-        }
-        fetch('http://lenczes.edumedia.ca/mad9137/a4/respond.php')
+
+        fetch('http://allengoo.com/php/bottleworksform2.php')
         .then(response=>{
             console.log(response);
             return response.json()
