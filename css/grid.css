@@ -1,6 +1,9 @@
 .grid-spaceBetween{
     text-align: center;
 }
-.col-3{
-    border:solid .5px grey;
+.col-2{
+text-align: center;
+}
+img{
+    width: 10rem
 }
